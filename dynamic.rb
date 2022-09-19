@@ -2,6 +2,7 @@ def dynamicArray(n, q)
    
     arrys = Array.new(n.to_i){[]}
 
+#Write the code
 
 lastAnswer = 0
 
