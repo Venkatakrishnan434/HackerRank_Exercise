@@ -1,4 +1,4 @@
-# Complete the function hourglassSum in the editor below.
+# Complete the function hourglassSum in the editor below..
 
 def hourglassSum(hour)
    
