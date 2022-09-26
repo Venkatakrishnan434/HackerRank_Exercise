@@ -13,4 +13,3 @@ end
 
 arr = [1,2,3,4,5,6]
 puts hourglassSum([arr, arr, arr, arr, arr,arr])
-
